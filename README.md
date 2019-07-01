@@ -3,8 +3,6 @@
 
 基于ServerStatus-Toyo最新版本稍作修改，不太会脚本什么的，前端也垃圾。见谅
 
-Test v0.014：图片来源：Pixiv：72725286
-
 ## 特性
 
 模板来自：<https://www.hostloc.com/thread-494384-1-1.html>
