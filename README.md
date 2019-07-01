@@ -15,7 +15,8 @@ Test v0.014：图片来源：Pixiv：72725286
 
 ## 安装方法
 
-请见：https://www.cokemine.com/serverstatus-hotaru.html
+wget https://raw.githubusercontent.com/miaocloud/ServerStatus-Hotaru/master/status.sh
+bash status.sh s
 
 ## 修改方法
 
